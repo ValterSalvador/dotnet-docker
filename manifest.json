@@ -14,6 +14,11 @@
       "readmePath": "README.md",
       "images": [
         {
+          "sharedTags": {
+            "2.1.402-sdk-watcher": {},
+            "2.1-sdk-watcher": {},
+            "watcher-latest": {}
+          },
           "platforms": [
             {
               "dockerfile": "2.1/sdk/watcher",
