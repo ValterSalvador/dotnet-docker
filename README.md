@@ -36,7 +36,7 @@ See [Hosting ASP.NET Core Images with Docker over HTTPS](https://github.com/dotn
 
 # Linux amd64 tags
 
-- [`2.1.402-sdk-watcher`, `sdk-watcher`, `watcher-latest` (*2.1/sdk/watcher/Dockerfile*)](https://github.com/ValterSalvador/dotnet-docker/blob/master/2.1/sdk/watcher/Dockerfile)
+- [`2.1.402-sdk-watcher`, `2.1-sdk-watcher`, `watcher-latest` (*2.1/sdk/watcher/Dockerfile*)](https://github.com/ValterSalvador/dotnet-docker/blob/master/2.1/sdk/watcher/Dockerfile)
 
 ## Licenses
 
