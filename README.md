@@ -6,9 +6,7 @@ See [dotnet/dotnet-docker](https://hub.docker.com/r/microsoft/dotnet/) for image
 
 The following tags are the latest stable versions of the most commonly used images. The complete set of tags is listed further down.
 
-- [`2.1-sdk`](https://github.com/dotnet/dotnet-docker/blob/nightly/2.1/sdk/stretch/amd64/Dockerfile)
-- [`2.1-aspnetcore-runtime`](https://github.com/dotnet/dotnet-docker/blob/nightly/2.1/aspnetcore-runtime/stretch-slim/amd64/Dockerfile)
-- [`2.1-runtime`](https://github.com/dotnet/dotnet-docker/blob/nightly/2.1/runtime/stretch-slim/amd64/Dockerfile)
+- [`2.1-sdk-watcher`](https://github.com/ValterSalvador/dotnet-docker/blob/master/2.1/sdk/watcher/Dockerfile)
 
 The [.NET Core Docker samples](https://github.com/dotnet/dotnet-docker/blob/master/samples/README.md) show various ways to use .NET Core and Docker together. See [Building Docker Images for .NET Core Applications](https://docs.microsoft.com/dotnet/core/docker/building-net-docker-images) to learn more.
 
